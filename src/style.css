@@ -1,7 +1,8 @@
 .hello {
-    color: rgb(52, 33, 33);
-    text-align: center;
-  }
-  body {
-    background-color: rgb(174, 98, 5);
+  color: rgb(52, 33, 33);
+  text-align: center;
+}
+
+body {
+  background-color: rgb(174, 98, 5);
 }

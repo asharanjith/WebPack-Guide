@@ -15,7 +15,7 @@ module.exports = {
   output: {
     filename: '[name].js',
     path: path.resolve(__dirname, 'dist'),
-    
+
   },
   optimization: {
     runtimeChunk: 'single',
@@ -28,5 +28,5 @@ module.exports = {
       },
     ],
   },
-    mode: 'development'
-  };
+  mode: 'development',
+};
